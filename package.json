@@ -12,8 +12,8 @@
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
-    "@mui/icons-material": "^5.11.16",
-    "@mui/material": "^5.13.1",
+    "@mui/icons-material": "^5.14.13",
+    "@mui/material": "^5.14.13",
     "@mui/styles": "^5.13.1",
     "@rainbow-me/rainbowkit": "^1.0.0",
     "@reduxjs/toolkit": "^1.9.5",
@@ -26,7 +26,8 @@
     "reapop": "^4.2.1",
     "redux-persist": "^6.0.0",
     "viem": "^0.3.31",
-    "wagmi": "^1.0.5"
+    "wagmi": "^1.0.5",
+    "web3": "^4.1.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
