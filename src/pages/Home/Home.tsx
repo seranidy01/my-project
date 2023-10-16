@@ -245,7 +245,7 @@ const handleBurnConfirm = async () => {
           </p>
         )}
       </div>
-	  )}
+	  )
 
 {errorMessages.length > 0 && (
   <div className={classes.errorBox}>
